@@ -69,7 +69,7 @@ there are three remote branches:
                 it is best practice to use -a.
                 - if we omit the reference the git will use the current HEAD.
                 > git tag -am "start" v1.0 asadsadada121
-                
+                 
        > git tag --list (will list)         
        > git tag -l
        > git tag -l "v*"
